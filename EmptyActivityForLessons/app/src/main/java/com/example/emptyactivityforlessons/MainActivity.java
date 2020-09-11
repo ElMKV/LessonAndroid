@@ -14,10 +14,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
     }
-
-    @NonNull
-    @Override
-    public MenuInflater getMenuInflater() {
-        return super.getMenuInflater();
-    }
+    
 }
